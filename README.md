@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Project-blue?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/Project_Status-Active-success?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/Future_Updates-Status_Null-blue?style=for-the-badge&logo=java">
 </p>
 
 ---
